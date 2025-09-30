@@ -1,0 +1,3 @@
+[submodule "graphql-vite-boilerplate"]
+	path = graphql-vite-boilerplate
+	url = https://github.com/davidkapuza/graphql-vite-boilerplate.git
